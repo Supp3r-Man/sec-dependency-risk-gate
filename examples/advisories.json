@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "generated": "2026-10-01",
+  "advisories": [
+    {
+      "id": "SYNADV-2026-0001",
+      "package": "nectar-codec",
+      "affected": [
+        ">=1.2,<1.10.1"
+      ],
+      "severity": "high",
+      "fixed": [
+        "1.10.1"
+      ],
+      "summary": "synthetic: decode overflow"
+    },
+    {
+      "id": "SYNADV-2026-0002",
+      "package": "quartz-router",
+      "affected": [
+        "<1.9.0"
+      ],
+      "severity": "medium",
+      "fixed": [
+        "1.9.0"
+      ],
+      "summary": "synthetic: path confusion"
+    },
+    {
+      "id": "SYNADV-2026-0003",
+      "package": "lumen-cache",
+      "affected": [
+        "~=2.0"
+      ],
+      "severity": "critical",
+      "fixed": [
+        "3.0"
+      ],
+      "summary": "synthetic: key collision"
+    },
+    {
+      "id": "SYNADV-2026-0004",
+      "package": "lumen-cache",
+      "affected": [
+        ">=2.2,<2.3"
+      ],
+      "severity": "high",
+      "fixed": [
+        "2.3"
+      ],
+      "summary": "synthetic: stale entry"
+    }
+  ]
+}

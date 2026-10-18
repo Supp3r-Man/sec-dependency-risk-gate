@@ -1,0 +1,10 @@
+{
+  "exceptions": [
+    {
+      "id": "SYNADV-2026-0003",
+      "package": "lumen-cache",
+      "reason": "synthetic example: waiting on vendor release",
+      "expires": "2026-12-31"
+    }
+  ]
+}

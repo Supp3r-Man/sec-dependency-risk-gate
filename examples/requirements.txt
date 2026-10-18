@@ -1,0 +1,5 @@
+# direct pins
+quartz-router==1.9.0
+lumen-cache==2.1
+amber-parser==1.0.3
+quartz-routr==0.1
